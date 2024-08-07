@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\A store\OneDrive\Desktop\project1 sh\code\Embedded_traffic_last.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\A store\OneDrive\Desktop\project1 sh\code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Embedded_traffic_last.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Embedded_traffic_last.c
+diagnostics: 158	123	Compiled Successfully	Embedded_traffic_last.c
+hint: 13	1164	Variable 'left' has been eliminated by optimizer	Embedded_traffic_last.c
+hint: 14	1164	Variable 'right' has been eliminated by optimizer	Embedded_traffic_last.c
+hint: 63	1164	Variable 'left' has been eliminated by optimizer	Embedded_traffic_last.c
+hint: 64	1164	Variable 'right' has been eliminated by optimizer	Embedded_traffic_last.c
+hint: 80	1164	Variable 'left' has been eliminated by optimizer	Embedded_traffic_last.c
+hint: 81	1164	Variable 'right' has been eliminated by optimizer	Embedded_traffic_last.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 9 (3%)  Free RAM (bytes): 343 (97%)	Used RAM (bytes): 9 (3%)  Free RAM (bytes): 343 (97%)
+hint: 0	1144	Used ROM (program words): 487 (6%)  Free ROM (program words): 7705 (94%)	Used ROM (program words): 487 (6%)  Free ROM (program words): 7705 (94%)
+diagnostics: 0	125	Project Linked Successfully	Embedded_traffic_last.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Embedded_traffic_last.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 07 Aug 2024, 11:17:26	Embedded_traffic_last.mcppi
